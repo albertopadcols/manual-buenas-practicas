@@ -81,4 +81,5 @@ Si tienes preguntas o sugerencias:
 
 **Última actualización**: Julio 2025  
 **Versión actual**: v0.2.0
+
 **Mantenido por**: Alberto Padilla, Francis Suárez, Orlianny Valderrama
